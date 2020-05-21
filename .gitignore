@@ -1,1 +1,4 @@
 bin/
+.idea
+.settings
+clean-code-basic.iml
